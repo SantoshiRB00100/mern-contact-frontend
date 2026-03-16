@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_URL = "https://mern-contact-backend-w929.onrender.com/api/contact";
+const API_URL = "https://mern-contact-backend-1.onrender.com/api/contact";
+
 
 export const sendContact = async (data) => {
   try {
